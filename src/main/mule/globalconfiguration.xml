@@ -10,4 +10,5 @@ http://www.mulesoft.org/schema/mule/db http://www.mulesoft.org/schema/mule/db/cu
 		<db:my-sql-connection host="localhost" port="3306" user="root" password="root" database="integration-feb" />
 	</db:config>
 	
-	</mule>
+	
+</mule>
